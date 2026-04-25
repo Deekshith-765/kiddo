@@ -5,7 +5,7 @@ pipeline {
         IMAGE_NAME = 'zoople-devops-workshop-vijin:latest'
         CONTAINER_NAME = 'kiddo'
         APP_PORT = '3000'
-        DOMAIN = 'vijin.workshop.zoople.in'
+        DOMAIN = 'kiddo.workshop.zoople.in'
         NGINX_DIR = '/home/ubuntu/nginx'
     }
 
